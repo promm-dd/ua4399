@@ -1,2 +1,1 @@
-Now is better than never.
-Errors should never pass silently
+Simple is better than complex.
